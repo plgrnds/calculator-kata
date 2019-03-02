@@ -26,5 +26,3 @@ out
 target
 .idea
 *.iml
-.gradle
-gradle
